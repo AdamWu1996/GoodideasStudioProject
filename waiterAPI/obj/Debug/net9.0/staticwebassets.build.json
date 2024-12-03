@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eZ14OcceNvgopxeJGvZyF2IiIqHNeiNEsErcpEOl900=",
+  "Source": "waiterAPI",
+  "BasePath": "_content/waiterAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
